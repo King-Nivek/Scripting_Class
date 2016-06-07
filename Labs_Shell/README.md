@@ -1,0 +1,3 @@
+##Shell Scripting
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here are a number of small labs created for school using Shell scripts to learn basic shell capabilities.  The largest script (lab4) allows for a CSV file, that was supplied to the class, a user provides and the two letter abbreviation of up to three states.  The output will be a HTML file that contains the CSV data in table form.  The CSV values are addresses and the rows with the provided state abbreviations will be highlighted making each of the three states a different color row.  The example CSV file and the example output are provided in the project.

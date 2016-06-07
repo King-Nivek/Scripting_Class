@@ -1,0 +1,3 @@
+##Shell Scripting -- CVS address to HTML Table
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lab 4 allows for a CSV file, that was supplied to the class, a user provides and the two letter abbreviation of up to three states. The output will be a HTML file that contains the CSV data in table form.  The CSV values are addresses and the rows with the provided state abbreviations will be highlighted making each of the three states a different color row.  The example CSV file and the example output are provided in the project.
