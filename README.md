@@ -20,15 +20,15 @@
 [Repository License][license]
 
 [shellFolder]: Labs_Shell
-[shellSuperBasics]: lab1_super_basics
-[shellTheBasics]: lab2_the_basics
-[shellRegex]: lab3_RegEx
-[shellCsvToHtmlTable]: lab4_CsvToHtmlTable
+[shellSuperBasics]: Labs_Shell/lab1_super_basics
+[shellTheBasics]: Labs_Shell/lab2_the_basics
+[shellRegex]: Labs_Shell/lab3_RegEx
+[shellCsvToHtmlTable]: Labs_Shell/lab4_CsvToHtmlTable
 [pythonFolder]: Labs_Python
-[pythonTheBasics]: lab6_the_basics
-[pythonChatbot]: lab7_Lego_Fan_Chatbot
-[pythonEncryption]: lab8_Simple_Character_Substitution_Encryption
+[pythonTheBasics]: Labs_Python/lab6_the_basics
+[pythonChatbot]: Labs_Python/lab7_Lego_Fan_Chatbot
+[pythonEncryption]: Labs_Python/lab8_Simple_Character_Substitution_Encryption
 [perlFolder]: Labs_Perl
-[perlTheBasics]: lab9_the_basics
-[perlDynamicReceipt]: lab10_dynamicReceipt
+[perlTheBasics]: Labs_Perl/lab9_the_basics
+[perlDynamicReceipt]: Labs_Perl/lab10_dynamicReceipt
 [license]: LICENSE.md
